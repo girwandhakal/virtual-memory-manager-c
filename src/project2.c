@@ -6,7 +6,7 @@
 #include<stdbool.h>
 #include<stdlib.h>
 #include<limits.h>
-#define backing_store "BACKING_STORE.bin"
+#define backing_store "../BACKING_STORE.bin"
 #define PAGETABLE_SIZE 256
 #define TLBSIZE 16
 
