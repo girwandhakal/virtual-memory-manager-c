@@ -30,7 +30,7 @@ Project 1 demonstrates a basic virtual memory management system using FIFO (Firs
     ```
 2. **Run the Program:**
     ```bash
-    ./project1 addressfile.txt
+    ./project1 ../test-cases/addressfile.txt
     ```
 
 
@@ -60,7 +60,7 @@ Project 2 extends Project 1 by implementing an advanced virtual memory managemen
     ```
 2. **Run the Program:**
     ```bash
-    ./project2 addressfile.txt frame_number
+    ./project2 ../test-cases/addressfile.txt frame_number
     ```
 
 ***
